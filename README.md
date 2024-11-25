@@ -22,8 +22,13 @@ This project analyzes a Portuguese bank marketing dataset to understand the fact
 
 **5. Evaluation:** Assess model performance using metrics like accuracy, precision, recall, and F1 score.
 
+**Comparison of ROC-AUC Score:**
 
+![image](https://github.com/user-attachments/assets/c789ce3d-0918-453f-be28-f36245e9c30d)
 
+**Comparison of Recall Score:**
+
+![image](https://github.com/user-attachments/assets/0ad60a17-235f-4afe-b79a-63eaf5b852be)
 
 
 **Conclusion :**
